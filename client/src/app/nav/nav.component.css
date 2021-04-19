@@ -1,0 +1,11 @@
+:host {
+    font-size: small;
+}
+
+.dropdown-toggle, .dropdown-item {
+    cursor: pointer;
+}
+
+a {
+    color: black;
+}
